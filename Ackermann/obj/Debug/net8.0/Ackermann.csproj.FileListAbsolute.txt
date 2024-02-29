@@ -12,3 +12,4 @@ D:\GeekBrain\Языки програмирования c#\Best Solutions\Ackerma
 D:\GeekBrain\Языки програмирования c#\Best Solutions\Ackermann\obj\Debug\net8.0\Ackermann.pdb
 D:\GeekBrain\Языки програмирования c#\Best Solutions\Ackermann\obj\Debug\net8.0\Ackermann.genruntimeconfig.cache
 D:\GeekBrain\Языки програмирования c#\Best Solutions\Ackermann\obj\Debug\net8.0\ref\Ackermann.dll
+D:\GeekBrain\Языки програмирования c#\Best Solutions\Ackermann\obj\Debug\net8.0\Ackermann.sourcelink.json

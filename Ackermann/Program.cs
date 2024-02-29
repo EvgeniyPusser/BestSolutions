@@ -12,6 +12,7 @@
                 return -1;
             }
         }
-        int result = Ackermann(1,1);
+
+        int result = Ackermann(1,2);
         Console.Write(result);
-        Console.Write("\n");
+        Console.Write("\n");  
