@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ackermann")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb13bb23ae77885f535e39034a63160e7e92a614")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+078a5f4c46df8d59645980d6c1b907c8711fa664")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ackermann")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ackermann")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
